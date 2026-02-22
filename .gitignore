@@ -1,0 +1,13 @@
+# Download state files
+seen_urls.txt
+seen_episodes.txt
+series_state.json
+errors.json
+
+# Downloaded content
+Downloads/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
