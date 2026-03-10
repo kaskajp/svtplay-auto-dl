@@ -1,5 +1,7 @@
 # svtplay-auto-dl
 
+⚠️ This repository has been moved to [git.4z.nu/jonas/svtplay-auto-dl](https://git.4z.nu/jonas/svtplay-auto-dl)
+
 Script for batch-downloading videos from SVT Play using [svtplay-dl](https://svtplay-dl.se/).
 
 ## Prerequisites
